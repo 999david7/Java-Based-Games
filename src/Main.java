@@ -8,7 +8,7 @@ public class Main extends JFrame {
     JCheckBox aiBox = new JCheckBox("Play vs AI");
 
     public Main() {
-        setTitle("Tic Tac Toe");
+        setTitle("Tik Tak Toe");
         setLayout(new BorderLayout());
 
         JPanel topPanel = new JPanel();
