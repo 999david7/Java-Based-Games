@@ -4,15 +4,16 @@ A collection of games fully developed in Java.
 
 ## 🕹️ Games
 
-### GUESS THE NUMBER
+### Guess The Number
 
 its the popular number guessing game in the numbers 0-100
 
 * 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/guess-the-number
 
 ---
+---
 
-### CONNECT FOUR
+### Connect Four
 
 its connect four made with beautiful ui based in java
 
@@ -22,7 +23,7 @@ its connect four made with beautiful ui based in java
 
 ---
 
-### CHESS
+### Chess
 
 its chess with classical brown and beige ui made for people hwo like to think
 
@@ -32,11 +33,29 @@ its chess with classical brown and beige ui made for people hwo like to think
 
 ---
 
-### CHESS
+### TicTacToe
 
-its chess with classical brown and beige ui made for people hwo like to think
+The most basic version of tictactoe play with friends or if you dont have any play against ai
 
-* 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/Chess
+* 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/TikTakToe
+
+---
+---
+
+### Geometry-Run
+
+its a geometry dash clone thats looks good and has got smooth gameplay
+
+* 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/Geometry-Dash
+
+---
+---
+
+### Juizz
+
+its supposed to be a quiz game that works like Kahoot
+
+* 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/Juizz-Quiz
 
 ---
 
@@ -54,4 +73,6 @@ Main.java
 
 ## 👨‍💻 Author
 
-Your Name
+David Winkler
+&
+Joana Fuchs https://github.com/Fuchs17
