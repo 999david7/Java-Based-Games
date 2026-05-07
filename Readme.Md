@@ -1,147 +1,57 @@
 # 🎮 Java Game Collection
 
-Welcome to my **Java Game Collection** — a collection of games fully developed in Java. This repository contains multiple projects ranging from classic arcade-style games to custom original creations.
+A collection of games fully developed in Java.
+
+## 🕹️ Games
+
+### GUESS THE NUMBER
+
+its the popular number guessing game in the numbers 0-100
+
+* 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/guess-the-number
 
 ---
 
-# 📚 About This Collection
+### CONNECT FOUR
 
-This collection was created to practice and improve:
+its connect four made with beautiful ui based in java
 
-* Object-Oriented Programming (OOP)
-* Game Logic & Mechanics
-* Java GUI Development
-* Problem Solving
-* Animation & Event Handling
-* Data Structures & Algorithms
-
-Each game is built entirely in **Java** and may use libraries such as:
-
-* Java Swing
-* JavaFX
-* AWT
-* Custom game engines/tools
+* 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/Connect-Four 
 
 ---
 
-# 🕹️ Games Included
+---
 
-## 1. Game Name Here
+### CHESS
 
-**Description:**
-Short description of the game.
+its chess with classical brown and beige ui made for people hwo like to think
 
-### Features
-
-* Feature 1
-* Feature 2
-* Feature 3
-
-### Play / Source Code
-
-* 🔗 [View Game](https://your-link-here.com)
-* 🔗 [Source Code](https://github.com/yourusername/game-repo)
+* 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/Chess
 
 ---
 
-## 2. Game Name Here
+---
 
-**Description:**
-Short description of the game.
+### CHESS
 
-### Features
+its chess with classical brown and beige ui made for people hwo like to think
 
-* Feature 1
-* Feature 2
-* Feature 3
-
-### Play / Source Code
-
-* 🔗 [View Game](https://your-link-here.com)
-* 🔗 [Source Code](https://github.com/yourusername/game-repo)
+* 🔗 [Source Code] https://github.com/999david7/Java-Based-Games/tree/Chess
 
 ---
 
-## 3. Game Name Here
-
-**Description:**
-Short description of the game.
-
-### Features
-
-* Feature 1
-* Feature 2
-* Feature 3
-
-### Play / Source Code
-
-* 🔗 [View Game](https://your-link-here.com)
-* 🔗 [Source Code](https://github.com/yourusername/game-repo)
-
----
-
-# ⚙️ Installation
-
-Clone the repository:
+## ⚙️ Run the Games
 
 ```bash
 git clone https://github.com/yourusername/java-game-collection.git
 ```
 
-Open the project in your preferred IDE:
-
-* IntelliJ IDEA
-* Eclipse
-* NetBeans
-* VS Code
-
-Run the desired game using:
+Open in your IDE and run:
 
 ```bash
 Main.java
 ```
 
----
+## 👨‍💻 Author
 
-# 🧩 Requirements
-
-* Java 17+ (or your version)
-* Maven / Gradle (if applicable)
-* JavaFX SDK (if required)
-
----
-
-# 📸 Screenshots
-
-Add screenshots or GIFs of your games here.
-
-Example:
-
-```md
-![Game Screenshot](images/game.png)
-```
-
----
-
-# 🚀 Future Improvements
-
-* Add multiplayer support
-* Improve UI/UX
-* Add save system
-* Add sound effects & music
-* Create launcher for all games
-
----
-
-# 👨‍💻 Author
-
-Created by **Your Name**
-
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* Portfolio: [https://yourwebsite.com](https://yourwebsite.com)
-
----
-
-# ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
+Your Name
